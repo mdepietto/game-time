@@ -1,0 +1,12 @@
+{
+  "extends": ["react-app", "react-app/jest", "prettier"],
+  "rules": {
+    "semi": "warn",
+    "no-const-assign": "error",
+    "no-dupe-args": "error",
+    "no-duplicate-imports": "warn",
+    "no-func-assign": "warn",
+    "prefer-const": "warn",
+    "sort-imports": "warn"
+  }
+}
